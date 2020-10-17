@@ -6,6 +6,8 @@
 
 ## `Sobre`
 
+
+
 ## `Libs utilizadas`
 
 -[typescript]
@@ -18,6 +20,11 @@
 ##  `Banco de dados`
 
 [Sqlite]
+
+
+## `Sobre Typescript`
+
+
 
 ## `Como executar`
 
